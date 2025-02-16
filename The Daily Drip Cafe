@@ -1,0 +1,65 @@
+<retaurant>
+  <name>The Daily Drip Cafe</name>
+  <menu>
+    <category name="Drinks">
+      <subcategory name="Coffee">
+        <item name="Drip Coffee" price="3.00"/>
+        <item name="Latte" price="4.50"/>
+        <item name="Cappuccino" price"4.00"/>
+        <item name="Macchiato" price"3.50"/>
+        <item name="Americano" price"2.50"/>
+        <item name="Mocha" price"5.00"/>
+        <item name="Iced Coffee" price="4.00"/>
+        <item name="Cold Brew" price="5.00"/>
+        <item name="Espresso (Single)" price="2.00"/>
+        <item name="Espresso (Double)" price="3.00"/>
+      </subcategory>
+      <subcategory name="Tea"
+        <item name="Black Tea" price="2.50"/>
+        <item name="Green Tea" price="2.50"/>
+        <item name="Herbal Tea" price="3.00"/>
+        <item name="Chamomile Tea" price="3.00"/>
+      </subcategory>
+      <subcategory name="Other Beverages">
+        <item name="Hot Chocolate" price="4.00"/>
+        <item name="Iced Tea" price="3.50"/>
+        <item name="Lemonade" price="3.00"/>
+        <item name="Orange Juice" price"3.50"/>
+        <item name="Apple Juice" price="3.00"/>
+        <item name="Sparkling Water" price="2.50"/>
+      </subcategory>
+    </category>
+    <category name="Food">
+      <subcategory name="Breakfast/Brunch">
+        <item name="Classic Breakfast Sandwich (Egg &amp; Cheese)" price="6.00"/>
+        <item name="Bacon, Egg &amp; Cheese Sandwich" price="7.00"/>
+        <item name="Avocado Toast" price="8.00"/>
+        <item name="Fluffy Pancakes (with Berries &amp; Syrup)" price="9.00"/>
+        <item name="Oatmeal with Granola &amp; Fruit" price="9.00"/>
+        <item name="Quiche Lorraine" price="8.50"/>
+      </subcategory>
+      <subcategory name="Lunch/Light Meals">
+        <item name="Grilled Cheese with Tomato Soup" price="9.00"/>
+        <item name="Soup of the Day" price="6.00"/>
+        <item name="Chicken Caeser Salad" price="10.00"/>
+        <item name="Turkey &amp; Swiss Sandwich" price="8.50"/>
+        <item name="Ham &amp; Cheddar Wrap" price="8.00"/>
+        <item name="Veggie Wrap" price="7.50"/>
+      </subcategory>
+      <subcategory name="Pastries &amp; Sweets">
+        <item name="Freshly Baked Muffin" price="3.00"/>
+        <item name="Scone" price="3.50"/>
+        <item name="Croissant" price="2.50"/>
+        <item name="Chocolate Chip Cookie" price="2.00"/>
+        <item name="Brownie" price="2.50"/>
+        <item name="Slice of Cake" price="5.00"/>
+      </subcategory>
+    </category>
+    <specials>
+      <text>Ask your server about our daily specials!</text>
+    </specials>
+    <note>
+      <text>Prices are subject to change.</text>
+    </note>
+  </menu>
+</restaurant>
