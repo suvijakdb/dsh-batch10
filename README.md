@@ -1,5 +1,5 @@
 # Data Science Bottcamp 10
-My data science and analytics projects
+My data science and analytics projects workshop
 
 ## My personal projects
 
